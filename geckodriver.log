@@ -54,3 +54,1506 @@ JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/logi
 1593506527555	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
 JavaScript error: chrome://browser/content/browser.xhtml, line 1: TypeError: gContextMenu is null
+1593509969699	Marionette	INFO	Stopped listening on port 54055
+1593521416552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilez7fPK2"
+1593521419933	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593521420083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593521420084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593521420084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593521420084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593521424783	Marionette	INFO	Listening on port 56927
+1593521424809	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593521457961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileBzsgZo"
+1593521459604	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593521459744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593521459744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593521459744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593521459744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593521462869	Marionette	INFO	Listening on port 57064
+1593521462891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 82))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:82:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+1593521711875	Marionette	INFO	Stopped listening on port 57064
+1593521770926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile7khOqF"
+1593521771540	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593521771695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593521771695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593521771696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593521771697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593521775454	Marionette	INFO	Listening on port 57165
+1593521775522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593521852307	Marionette	INFO	Stopped listening on port 57165
+1593521886654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileuSpoYr"
+1593521887262	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593521887406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593521887407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593521887407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593521887407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593521891184	Marionette	INFO	Listening on port 57262
+1593521891255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593521964689	Marionette	INFO	Stopped listening on port 57262
+1593522005547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileh5srav"
+1593522006144	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522006307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522006307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522006307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522006307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522009933	Marionette	INFO	Listening on port 57352
+1593522009966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522062255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilew1vsKL"
+1593522062879	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522063028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522063028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522063028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522063028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522064374	Marionette	INFO	Stopped listening on port 57352
+1593522066734	Marionette	INFO	Listening on port 57441
+1593522066767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 82))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:82:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+1593522148019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilekYbFM3"
+1593522148675	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522148817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522148817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522148818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522148818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522150691	Marionette	INFO	Stopped listening on port 57441
+1593522152649	Marionette	INFO	Listening on port 57531
+1593522152739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522221307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileXr0ZsJ"
+1593522221883	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522222022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522222022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522222022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522222023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522225150	Marionette	INFO	Listening on port 57617
+1593522225200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522243726	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1593522275534	Marionette	INFO	Stopped listening on port 57531
+1593522356410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofiledXxlXl"
+1593522356986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522357125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522357126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522357126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522357126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522360638	Marionette	INFO	Listening on port 57777
+1593522360720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593522364280	Marionette	INFO	Stopped listening on port 57617
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522384917	Marionette	INFO	Stopped listening on port 57777
+1593522442667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileA8Nu5Z"
+1593522443311	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522443468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522443468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522443468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522443468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522446807	Marionette	INFO	Listening on port 57859
+1593522446863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522470569	Marionette	INFO	Stopped listening on port 57859
+1593522533092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofiledryNec"
+1593522533697	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522533850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522533850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522533851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522533851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522537492	Marionette	INFO	Listening on port 57947
+1593522537591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522573923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileBF5R5A"
+1593522574549	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522574729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522574730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522574730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522574730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522578350	Marionette	INFO	Listening on port 58029
+1593522578445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522708278	Marionette	INFO	Stopped listening on port 57947
+1593522758215	Marionette	INFO	Stopped listening on port 58029
+1593522776696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileHjdAq7"
+1593522777268	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593522777412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593522777413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593522777413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593522777413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593522780552	Marionette	INFO	Listening on port 58138
+1593522780582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593522792611	Marionette	INFO	Stopped listening on port 58138
+1593524169919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilevjguSx"
+1593524170538	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593524170700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593524170700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593524170700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593524170701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593524173302	Marionette	INFO	Listening on port 58420
+1593524173403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593524278846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileskoBkg"
+1593524279431	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593524279573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593524279574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593524279574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593524279574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593524282035	Marionette	INFO	Listening on port 58502
+1593524282126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593524337014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileKHbPvL"
+1593524337723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593524337864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593524337864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593524337864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593524337864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593524340358	Marionette	INFO	Listening on port 58576
+1593524340383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593524417468	Marionette	INFO	Stopped listening on port 58420
+1593524419075	Marionette	INFO	Stopped listening on port 58502
+1593524421094	Marionette	INFO	Stopped listening on port 58576
+1593524423175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileWtyeU9"
+1593524423748	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593524423890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593524423890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593524423890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593524423891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593524426396	Marionette	INFO	Listening on port 58652
+1593524426463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593524684714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileRBa7oG"
+1593524685312	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593524685466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593524685466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593524685466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593524685466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593524687973	Marionette	INFO	Listening on port 58730
+1593524688010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593524717233	Marionette	INFO	Stopped listening on port 58652
+1593524721414	Marionette	INFO	Stopped listening on port 58730
+1593524788607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofiledGeeHi"
+1593524789189	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593524789332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593524789332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593524789333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593524789333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593524791862	Marionette	INFO	Listening on port 58792
+1593524791894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593524856136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilemXjikL"
+1593524856690	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593524856834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593524856835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593524856835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593524856835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593524859338	Marionette	INFO	Listening on port 58856
+1593524859416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593524878446	Marionette	INFO	Stopped listening on port 58856
+1593524882772	Marionette	INFO	Stopped listening on port 58792
+1593525048892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileFc1iVo"
+1593525049458	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593525049596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593525049596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593525049596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593525049597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593525052101	Marionette	INFO	Listening on port 58932
+1593525052189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+1593525519550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileYkwQc5"
+1593525520150	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593525520320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593525520321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593525520321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593525520321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593525522924	Marionette	INFO	Listening on port 59323
+1593525523026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+1593525571896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilegsmICj"
+1593525572493	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593525572638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593525572639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593525572639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593525572639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593525575216	Marionette	INFO	Stopped listening on port 58932
+1593525575643	Marionette	INFO	Listening on port 59403
+1593525575699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593525577108	Marionette	INFO	Stopped listening on port 59323
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593525689541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilepU1QVh"
+1593525690107	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593525690253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593525690253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593525690254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593525690254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593525692734	Marionette	INFO	Listening on port 59497
+1593525692808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+1593525908143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilepavY16"
+1593525908716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593525908857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593525908857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593525908857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593525908858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593525911500	Marionette	INFO	Listening on port 59580
+1593525911531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593525911994	Marionette	INFO	Stopped listening on port 59497
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593525957276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileMUAxxV"
+1593525958999	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593525959623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593525959624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593525959625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593525959625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593525959877	Marionette	INFO	Stopped listening on port 59580
+1593525965797	Marionette	INFO	Listening on port 59673
+1593525965903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593526049919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile3rzCWW"
+1593526050502	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593526050645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593526050646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593526050646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593526050646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593526053232	Marionette	INFO	Listening on port 59799
+1593526053305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593526054869	Marionette	INFO	Stopped listening on port 59673
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593526141441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileuoFNXF"
+1593526142296	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593526142449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593526142449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593526142449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593526142450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593526144976	Marionette	INFO	Listening on port 59881
+1593526145047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593526195196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileb21qIT"
+1593526195786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593526195925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593526195925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593526195926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593526195926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593526198511	Marionette	INFO	Listening on port 59970
+1593526198578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593526248168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile53QbHx"
+1593526248738	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593526248874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593526248874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593526248875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593526248875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593526251398	Marionette	INFO	Listening on port 60058
+1593526251443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593526395849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileHr75Lh"
+*** You are running in headless mode.
+1593526396333	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593526396462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593526396462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593526396463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593526396463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593526398850	Marionette	INFO	Listening on port 60136
+1593526398902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593526498950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilejujQua"
+*** You are running in headless mode.
+1593526499494	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593526499632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593526499633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593526499633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593526499633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593526502383	Marionette	INFO	Listening on port 60220
+1593526502429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593526698777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileULo2KO"
+*** You are running in headless mode.
+1593526699265	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593526699391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593526699391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593526699392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593526699392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593526701784	Marionette	INFO	Listening on port 60307
+1593526701840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+1593527022126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilenkyA0u"
+*** You are running in headless mode.
+1593527022630	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593527022760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593527022760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593527022760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593527022760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593527025393	Marionette	INFO	Listening on port 60560
+1593527025495	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593527036598	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile9zzfd8"
+1593527037287	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593527037495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593527037495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593527037496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593527037496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593527040391	Marionette	INFO	Listening on port 60634
+1593527040495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593527299507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile9IIt9q"
+1593527300143	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593527300303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593527300303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593527300304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593527300304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593527303293	Marionette	INFO	Listening on port 60717
+1593527303389	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593527415625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileqm8vwH"
+*** You are running in headless mode.
+1593527416173	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593527416306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593527416306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593527416307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593527416307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593527419105	Marionette	INFO	Listening on port 60796
+1593527419205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+1593527842357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileFYPu7q"
+*** You are running in headless mode.
+1593527842895	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593527843027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593527843027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593527843027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593527843028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593527845555	Marionette	INFO	Listening on port 60902
+1593527845633	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593527944740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile7Le8vX"
+*** You are running in headless mode.
+1593527945237	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593527945368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593527945369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593527945369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593527945369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593527947877	Marionette	INFO	Listening on port 60980
+1593527947917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+1593527963338	Marionette	INFO	Stopped listening on port 60980
+1593528175012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofilecrgXdg"
+*** You are running in headless mode.
+1593528175570	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528175727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528175727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528175728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528175728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593528178394	Marionette	INFO	Listening on port 61071
+1593528178420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593528202962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile1UES8P"
+*** You are running in headless mode.
+1593528203559	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528203698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528203698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528203698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528203698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593528206233	Marionette	INFO	Listening on port 61154
+1593528206257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593528283614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileg6rEsa"
+*** You are running in headless mode.
+1593528284190	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528284333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528284333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528284334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528284334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593528286906	Marionette	INFO	Listening on port 61244
+1593528287001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593528373812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileDitbyR"
+*** You are running in headless mode.
+1593528374304	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528374436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528374436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528374436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528374436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593528376943	Marionette	INFO	Listening on port 61329
+1593528376995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593528430225	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile5RR9df"
+*** You are running in headless mode.
+1593528430710	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528430839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528430839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528430839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528430839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593528433329	Marionette	INFO	Listening on port 61417
+1593528433387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php#, line 82: ReferenceError: regnoval is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593528597827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile9w0zQ2"
+*** You are running in headless mode.
+1593528598330	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528598463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528598464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528598464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528598464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593528600969	Marionette	INFO	Listening on port 61507
+1593528601023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 82: ReferenceError: regnoval is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593528976941	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofile6J3eOq"
+*** You are running in headless mode.
+1593528977485	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528977636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528977636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528977637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528977637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593528981709	Marionette	INFO	Listening on port 61619
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593528998035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/1p/2h432jws0qg7f24pr2r6kbwr0000gn/T/rust_mozprofileHnbTSV"
+*** You are running in headless mode.
+1593528998554	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1593528998692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593528998692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593528998693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593528998693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593529002832	Marionette	INFO	Listening on port 61674
+1593529002851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js, line 6: TypeError: t is undefined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php, line 44: ReferenceError: $ is not defined
+JavaScript error: http://cloudportal.sathyabama.ac.in/sist_results_may_2020/js/noback.js, line 76: ReferenceError: jQuery is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
