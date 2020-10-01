@@ -3,7 +3,7 @@ It is just a python _web automation_ code.
 We will be using selenium 3.141.0
 By this we can just login into the results portal and will be trying to login using multiple date of births as for each reg no:
 
-#Getting Started
+# Getting Started
 we import necessary libraries and packages required for it; such as:
 ```bash
 from time import sleep
@@ -15,7 +15,7 @@ we will be using sleep() for the possibilities if refresh rate and delay possibi
 
 we will create individual methods for it to access, and the loop for it to iteratively check with each date for the perticular registeration number.
 
-#Fetching Data
+# Fetching Data
 For fetching the data we use:
 ```bash
 meta = driver.find_element_by_id("tblInfo").find_elements_by_tag_name("td")
